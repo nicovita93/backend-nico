@@ -1,119 +1,132 @@
 [
 	{
 		"id": 1,
-		"code": 1,
-		"price": 100,
-		"title": "Un producto",
-		"description": "Esto es un producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 80000
+		"title": "Fideos Bicolor",
+		"description": "Fideos al huevo blancos y de espinaca",
+		"code": "1",
+		"price": 1000,
+		"stock": 100,
+		"status": true,
+		"category": "fideos",
+		"thumbnail": [
+			"/public/img/1.jpg"
+		]
 	},
 	{
 		"id": 2,
-		"code": 2,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
+		"title": "Ravioles de verdura",
+		"description": "Los mejores ravioles de verdura",
+		"code": "2",
+		"price": 1500,
+		"stock": 50,
+		"status": true,
+		"category": "ravioles",
+		"thumbnail": [
+			"/public/img/2.jpg"
+		]
 	},
 	{
 		"id": 3,
-		"code": 3,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
+		"title": "Ravioles de Ricota",
+		"description": "Ravioles de Ricota casera",
+		"code": "3",
+		"price": 1400,
+		"stock": 40,
+		"status": true,
+		"category": "ravioles",
+		"thumbnail": [
+			"/public/img/3.jpg"
+		]
 	},
 	{
 		"id": 4,
-		"code": 4,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
+		"title": "Ravioles de Jamon y Queso",
+		"description": "Un clasico, JYQ",
+		"code": "4",
+		"price": 1450,
+		"stock": 80,
+		"status": true,
+		"category": "ravioles",
+		"thumbnail": [
+			"/public/img/4.jpg"
+		]
 	},
 	{
 		"id": 5,
-		"code": 5,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
+		"title": "Ñoquis de papa",
+		"description": "Ñoquis caseros de papa",
+		"code": "5",
+		"price": 700,
+		"stock": 200,
+		"status": true,
+		"category": "ñoquis",
+		"thumbnail": [
+			"/public/img/6.jpg"
+		]
 	},
 	{
 		"id": 6,
-		"code": 6,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
+		"title": "Ñoquis de Calabaza",
+		"description": "Ñoquis caseros de calabaza",
+		"code": "6",
+		"price": 750,
+		"stock": 150,
+		"status": true,
+		"category": "ñoquis",
+		"thumbnail": [
+			"/public/img/6.jpg"
+		]
 	},
 	{
 		"id": 7,
-		"code": 7,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
+		"title": "Ñoquis tricolor",
+		"description": "Ñoquis de papa, verdura y calabaza",
+		"code": "7",
+		"price": 900,
+		"stock": 100,
+		"status": true,
+		"category": "ñoquis",
+		"thumbnail": [
+			"/public/img/8.jpg"
+		]
 	},
 	{
 		"id": 8,
-		"code": 8,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
+		"title": "Fideo tallarin  al huevo",
+		"description": "Fideos clasicos tallarin",
+		"code": "8",
+		"price": 600,
+		"stock": 200,
+		"status": true,
+		"category": "fideos",
+		"thumbnail": [
+			"/public/img/9.jpg"
+		]
 	},
 	{
 		"id": 9,
-		"code": 9,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
+		"title": "Fideo tallarin de verdura",
+		"description": "Fideos de verdura tallarin",
+		"code": "9",
+		"price": 700,
+		"stock": 100,
+		"status": true,
+		"category": "fideos",
+		"thumbnail": [
+			"/public/img/9.jpg"
+		]
 	},
 	{
 		"id": 10,
-		"code": 10,
-		"price": 200,
-		"title": "Otro producto",
-		"description": "Esto es otro producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 1
-	},
-	{
-		"id": 11,
-		"code": 15000,
-		"price": 100,
-		"title": "Un producto",
-		"description": "Esto es un producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 80000
-	},
-	{
-		"id": 12,
-		"code": 12,
-		"price": 100,
-		"title": "Un producto",
-		"description": "Esto es un producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 80000
-	},
-	{
-		"id": 13,
-		"code": 18,
-		"price": 100,
-		"title": "Un producto",
-		"description": "Esto es un producto",
-		"thumbnail": "Esto es una foto",
-		"Stock": 80000
+		"title": "Fideo cinta de verdura",
+		"description": "Fideos de verdura cinta",
+		"code": "10",
+		"price": 730,
+		"stock": 90,
+		"status": true,
+		"category": "fideos",
+		"thumbnail": [
+			"/public/img/10.jpg"
+		]
 	}
 ]
